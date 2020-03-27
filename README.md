@@ -10,4 +10,4 @@ Perform a security audit on the contract. Document in a report all the issues/vu
 
 # Audit Report
 
-- [Link to my audit report](./SecurityAuditReport.md)
+- [View Audit Report](./SecurityAuditReport.md)
