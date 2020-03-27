@@ -6,3 +6,8 @@ The purpose of the contract, BadKickback, is used to encourage higher event turn
 
 ## Task
 Perform a security audit on the contract. Document in a report all the issues/vulnerabilities, classify their severities and provide recommendations.
+
+
+# Audit Report
+
+- [Link to my audit report](./SecurityAuditReport.md)
